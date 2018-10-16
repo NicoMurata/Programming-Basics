@@ -1,0 +1,12 @@
+#include <iostream>
+using namespace std;
+int main()
+{
+  int x = 30, y = 20;
+  cout << x << "," << y << end1;
+  int z = 0;
+  z = y;
+  y = x;
+  x = z;
+  cout << x << "," << y << end1;
+}
